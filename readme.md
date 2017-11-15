@@ -7,7 +7,7 @@ Under construction
 ### Contributers 
 * [Austin Smitherman](https://github.com/asmitherman) - Backend/Frontend developer
 * John Hastings - Plot developer
-* Joseph Panida - Plot developer and Graphics Designer
+* Joseph Panida - Joseph Panida
 * Alexander Hawvichorst - Soundtrack Developer
 
 
