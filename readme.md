@@ -1,24 +1,28 @@
-# Unnamed Hero
+# unnamed
 
-#### Skyrim inspired text adventure game 
+> Modern Text based adventure game
 
-Under construction 
+#### Build Setup
 
-### Contributers 
-* [Austin Smitherman](https://github.com/asmitherman) - Backend/Frontend developer
-* John Hastings - Plot developer
-* Joseph Panida - Joseph Panida
-* Alexander Hawvichorst - Soundtrack Developer
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:9080
+npm run dev
+
+# build electron application for production
+npm run build
+
+# run unit & end-to-end tests
+npm test
 
 
-### Made With:
+# lint all JS/Vue component files in `src/`
+npm run lint
 
- * [Electron](https://github.com/electron/electron) 
- * [Ionic 3](https://github.com/ionic-team/ionic) 
- * [Angular4](https://angular.io/)
- * [Polyonic](https://github.com/paulsutherland/Polyonic) 
+```
 
-### Fonsts and Icons
+---
 
-* [Ringbearer](https://www.dafont.com/ringbearer.font) - Text font
-* [Rpg-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) Fantasy icons 
+This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
